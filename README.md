@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer from Russia 🇷🇺</h3>
 
+<h3 align="center">🔭 I’m currently working on telegram bot - reminder </h3>
+<h4 align="center">Skills: JAVA / GIT / DOCKER / MAVEN </h4>
+
 
 <!--
 **Wereflyers/Wereflyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
