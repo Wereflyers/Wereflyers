@@ -5,6 +5,8 @@
 <h3 align="center">🔭 I’m currently working on telegram bot - reminder </h3>
 <h4 align="center">Skills: JAVA / GIT / DOCKER / MAVEN / SPRING BOOT / POSTGRESQL </h4>
 
+<h4 align="center">Telegram: @wereflyerswork </h4>
+
 
 <!--
 **Wereflyers/Wereflyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
