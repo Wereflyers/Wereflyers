@@ -3,7 +3,7 @@
 <h3 align="center">Java developer from Russia 🇷🇺</h3>
 
 <h3 align="center">🔭 I’m currently learning Kotlin </h3>
-<h4 align="center">Skills: JAVA / GIT / DOCKER / MAVEN / SPRING BOOT / POSTGRESQL / HIBERNATE</h4>
+<h4 align="center">Skills: JAVA / GIT / DOCKER / MAVEN / SPRING BOOT / POSTGRESQL / HIBERNATE / SPRING SECURITY / REDIS </h4>
 
 <h4 align="center">Telegram: @wereflyerswork </h4>
 
